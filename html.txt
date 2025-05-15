@@ -1,0 +1,8 @@
+<html>
+<head>
+<title> Activity List & Table</title>
+</head>
+<body>
+My Favourite Movie / Drama
+</body>
+</html>
